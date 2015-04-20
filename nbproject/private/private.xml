@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/service/BookSearch.java</file>
+            <file>file:/E:/Java/bookstore/web/search.jsp</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/dal/BookDalImpl.java</file>
+            <file>file:/E:/Java/bookstore/test/fr/univ/lille1/dal/BookDalImplTest.java</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/service/BookAuthors.java</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/dal/CommandDalImpl.java</file>
+            <file>file:/E:/Java/bookstore/test/fr/univ/lille1/entities/BookTest.java</file>
+            <file>file:/E:/Java/bookstore/test/fr/univ/lille1/entities/ClientTest.java</file>
+            <file>file:/E:/Java/bookstore/web/cart.jsp</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/entities/Client.java</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/exception/NoUserExistException.java</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/entities/Command.java</file>
+            <file>file:/E:/Java/bookstore/test/fr/univ/lille1/entities/CommandTest.java</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/service/BookInit.java</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/service/BookRegistration.java</file>
+            <file>file:/E:/Java/bookstore/web/authors.jsp</file>
+            <file>file:/E:/Java/bookstore/web/init.jsp</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/dal/ClientDalImpl.java</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/dal/ClientDal.java</file>
+            <file>file:/E:/Java/bookstore/web/index.jsp</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/service/BookShopping.java</file>
+            <file>file:/E:/Java/bookstore/web/header.jsp</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/dal/CommandDal.java</file>
+            <file>file:/E:/Java/bookstore/web/books.jsp</file>
+            <file>file:/E:/Java/bookstore/test/fr/univ/lille1/dal/CommandDalImplTest.java</file>
+            <file>file:/E:/Java/bookstore/web/registration.jsp</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/service/BookListing.java</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/entities/Book.java</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/dal/BookDal.java</file>
+            <file>file:/E:/Java/bookstore/src/java/fr/univ/lille1/service/BookIndex.java</file>
+            <file>file:/E:/Java/bookstore/web/commands.jsp</file>
+            <file>file:/E:/Java/bookstore/test/fr/univ/lille1/dal/ClientDalImplTest.java</file>
+        </group>
+    </open-files>
+</project-private>
